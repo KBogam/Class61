@@ -1,0 +1,41 @@
+body{
+    text-align:center;
+}
+
+h1{
+    font-size:60px;
+}
+
+
+.line{
+    height:4px;
+    width:200px;
+    background-color:black;
+    margin:8px auto;
+}
+
+img{
+    height:400px;
+    width:400px;
+}
+img:hover{
+    height:450px;
+    width:450px;
+}
+
+#game{
+    background-color:blue;
+    color:rgb(255, 255, 255);
+}
+
+#apps{
+    background-color:rgb(29, 233, 29);
+    color:rgb(255, 255, 255);
+}
+
+#chatbot{
+    background-color:red;
+    color:rgb(255, 255, 255);
+}
+
+
